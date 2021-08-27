@@ -1,1 +1,6 @@
 Hola mundo
+m1(abc)
+
+m2()
+
+m3()
